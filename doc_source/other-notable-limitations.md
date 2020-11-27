@@ -18,7 +18,7 @@ When running queries in Athena, keep in mind the following considerations and li
 
 ## Cross\-regional Queries<a name="cross-region-limitations"></a>
 
-Athena supports queries across only the following Regions\. Queries across other Regions may produce the error message InvalidToken: The provided token is malformed or otherwise invalid\.
+Athena supports queries only in the following Regions\. Queries in other Regions may produce the error message InvalidToken: The provided token is malformed or otherwise invalid\.
 
 
 | Region Name | Region Code | 
